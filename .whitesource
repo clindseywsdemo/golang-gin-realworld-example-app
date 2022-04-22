@@ -14,8 +14,11 @@
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
+    "enableRenovate": true,
+    "dependencyDashboard": true,
+    "extends": [
+      "github>whitesource/merge-confidence:beta",
+      "github>samq-ghdemo/renovate:demo"
+      ]
   }
 }
