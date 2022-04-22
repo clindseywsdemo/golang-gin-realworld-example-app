@@ -11,7 +11,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/golang/protobuf v1.5.1 // indirect
 	github.com/gosimple/slug v1.9.0
-	github.com/jinzhu/gorm v0.0.0-20170703134954-2a1463811ee1
+	github.com/jinzhu/gorm v0.2.3
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.2 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
